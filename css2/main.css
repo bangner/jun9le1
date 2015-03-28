@@ -322,27 +322,14 @@ h5, h6          { font-weight: bolder }
     overflow: hidden;
     display: block;
     position: relative;
-    background: url('../img/current/lacedlheader.jpg') no-repeat;
+    background: url('../img/logos/cokelaced.jpg') no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-position: 50% 50%;
 }
-/*FIXME If we want to have multiple images in the slider, need to add the class to the inner pages*/
-/*.top2{
-    width: 100%;
-    height: 350px;
-    overflow: hidden;
-    display: block;
-    position: relative;
-    background: url('../img/current/justsnortit.jpeg') no-repeat;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-position: 50% 50%;
-}
+
 */
 .work_nav{
     display: block;
@@ -530,7 +517,7 @@ h5, h6          { font-weight: bolder }
     header .logo{
         margin: 40px 0 0 30px;
         display: inline-block;
-        background-color: black;
+        background-color: white;
     }
     header .footer{
         display: none;
