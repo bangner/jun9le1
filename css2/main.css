@@ -86,9 +86,14 @@ h5, h6          { font-weight: bolder }
     *zoom: 1;
 }
 
+a {
+    color: black;
+}
 
 
-
+i {
+    color: black;
+}
 
 
 
@@ -160,16 +165,9 @@ h5, h6          { font-weight: bolder }
         display: block;
         width: 30px;
         height: 30px;
-        background: url('../img/sm.png') no-repeat;
-        background-position: 0 0;
+/*        background: url('../img/sm.png') no-repeat;
+*/        background-position: 0 0;
     }
-
-
-    header ul.social li a:hover{
-        background: url('../img/sm_hover.png') no-repeat;
-    }
-
-
 
     header ul.social li a.fb,
     header ul.social li a.fb:hover{
@@ -244,7 +242,8 @@ h5, h6          { font-weight: bolder }
     box-sizing: border-box;
     position: relative;
     z-index: 55;
-    background: #f6f6f6;
+    /*background: #f6f6f6;*/
+    background: white;
     clear: both;
 }
 
