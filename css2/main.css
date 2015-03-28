@@ -309,6 +309,10 @@ h5, h6          { font-weight: bolder }
     border-top: 1px solid #bfbbbb;
 }
 
+.carousel-caption h3 p {
+    color: white;
+}
+
 
 
 

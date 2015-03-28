@@ -41,7 +41,7 @@ jQuery(function($){
 			  }
 			];
 			var infowindow = new google.maps.InfoWindow({
-				content:"<div class='map_adresse'><div class='map_address'><span class='address'>Address : </span>1401 South Grand Avenue Los Angeles, CA 90015</div> <div class='map_tel'><span class='tel'>Phone : </span>(213) 748-2411</div></div>"
+				content:"<div class='map_adresse'><div class='map_address'><span class='address'>Address: </span>Chicago, IL</div> <div class='map_tel'><span class='tel'>Email: </span>info@jun9le1.com</div></div>"
 			});
 
 			map.setOptions({styles: styles});
